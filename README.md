@@ -1,4 +1,4 @@
-#VIPTEAM
+# [VIPTEAM](https://telegram.me/vip_team1)
 #EN_v2
 #لتصيب السورس اتبع الخطوات التاليه
 
@@ -40,4 +40,5 @@ chmod +x launch.sh
 ➖🔹➖🔸➖🔶➖🔷➖
 #تم الرفع بواسطة تيم VIP TEAM
 #تابعووو قناة السورس
-#@VIP_TEAM1
+# [VIPTEAM](https://telegram.me/vip_team1)
+
